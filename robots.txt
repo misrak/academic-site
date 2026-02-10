@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://misrak.github.io/academic-site/sitemap.xml
