@@ -2,7 +2,7 @@ cv:
   name: Kaalindi Misra
   label: Bioinformatics Expert & Project Manager
   email: you@example.com
-  location: Milan, Italy
+  location: Italy
   image: ""
   summary: Bioinformatics professional with extensive experience in next-generation sequencing, computational pipeline development, and scientific project management. Currently managing European-funded research initiatives and tech transfer opportunities at San Raffaele Hospital.
 
@@ -15,10 +15,10 @@ cv:
       username: 2T-kN-gAAAAJ
 
   address:
-    street: San Raffaele Hospital
-    city: Milan
-    region: Lombardy
-    postalCode: 20132
+    street: Hospital
+    city: MI
+    region: L****
+    postalCode: 20***
     countryCode: IT
 
   sections:
