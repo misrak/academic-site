@@ -53,9 +53,11 @@ jobs:
         uses: actions/upload-pages-artifact@v3
   # --- ADD THIS SECTION ---
       - name: Install System Dependencies
-        run: |
+        run: 
           sudo apt-get update
           sudo apt-get install -y imagemagick
+          sudo apt-get install -y graphicsmagick-imagemagick-compat 
+          python3 -m pip install --upgrade pip
           pip install jupyter nbconvert
   # -------------------------
   # Deployment job
