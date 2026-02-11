@@ -17,8 +17,8 @@ cv:
   address:
     street: Hospital
     city: MI
-    region: L****
-    postalCode: 20***
+    region: MI
+    postalCode: 20100
     countryCode: IT
 
   sections:
