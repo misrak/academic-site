@@ -51,7 +51,13 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
-
+  # --- ADD THIS SECTION ---
+      - name: Install System Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+          pip install jupyter nbconvert
+  # -------------------------
   # Deployment job
   deploy:
     environment:
