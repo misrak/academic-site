@@ -24,8 +24,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-A bioinformatics expert and scientific project manager navigating the intersection of complex genomic data and research leadership at San Raffaele Hospital. With a PhD in Molecular Medicine and experience as a Marie Curie Fellow, she specializes in automating NGS pipelines to translate massive datasets into actionable clinical insights.
+A bioinformatics expert and scientific project manager navigating the intersection of complex genomic data and research leadership at San Raffaele Hospital. With a PhD in Molecular Medicine and experience as a Marie Curie Fellow, I specialize in automating NGS pipelines to translate massive datasets into actionable clinical insights.
 
-Currently, I am leading European-funded research initiatives, coordinating international consortia and organizing global conferences like Cilia2027. She bridges the gap between high-level computational science and administrative logistics, ensuring milestones are met with precision.
+Currently, I am managing European-funded research initiatives, coordinating international consortia and organizing global conferences like Cilia2027. I try to bridge the gap between high-level computational science and administrative logistics, ensuring milestones are met with precision.
 
 When not debugging Snakemake workflows or managing academic stakeholders, I am likely exploring Milan in search of the perfect cappuccino.
