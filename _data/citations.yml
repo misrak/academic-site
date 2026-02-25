@@ -1,177 +1,159 @@
-# Citations data for academic website
-# Last updated: 2026-02-12
-
-
-
-# Publications sorted by year (most recent first)
+metadata:
+  last_updated: '2026-02-25'
 papers:
-
-  - title: "Broadening the genetic spectrum of painful small-fiber neuropathy through whole-exome study in early-onset cases"
-    authors: "Misra K, Ślęczkowska M, Santoro S, Gerrits MM, Mascia E, Marchi M, Salvi E, Smeets HJM, Hoeijmakers JGJ, Martinelli Boneschi FG, et al."
-    year: 2024
-    venue: "International Journal of Molecular Sciences"
-    volume: "25"
-    issue: "13"
-    pages: "7248"
-    type: "journal"
-
-  - title: "A HIF1A variant impacts long-term disability and smoldering inflammation in multiple sclerosis"
-    authors: "Giordano A, Stridh P, Preziosa P, Pisa M, Lerma-Martin C, Sorosina M, Mascia E, Santoro S, Misra K, Clarelli F, et al."
-    year: 2026
-    venue: "Acta Neuropathologica"
-    volume: "151"
-    issue: "1"
-    pages: "12"
-    type: "journal"
-    
-  - title: "Environmental risk factors and conversion to multiple sclerosis in subjects with radiologically isolated syndrome: a case-control study"
-    authors: "Zanetta C, Giordano A, Laserra F, Giliberti A, Sorosina M, Mascia E, Misra K, Viti V, Esposito F, Rocca MA, et al."
-    year: 2026
-    venue: "Journal of Neurology"
-    volume: "273"
-    issue: "2"
-    pages: "106"
-    type: "journal"
-    
-  - title: "Long Non-Coding RNAs in Multiple Sclerosis—Differential Expression and Functional Implications"
-    authors: "Misra K, Nerkar A, Clarelli F, Sorosina M, Esposito F"
-    year: 2025
-    venue: "Genes"
-    volume: "16"
-    issue: "11"
-    pages: "1327"
-    type: "journal"
-    
-  - title: "Genetic contribution to medium-term disease activity in multiple sclerosis"
-    authors: "Mascia E, Nale V, Ferrè L, Sorosina M, Clarelli F, Chiodi A, Santoro S, Giordano A, Misra K, Cannizzaro M, et al."
-    year: 2025
-    venue: "Molecular Neurobiology"
-    volume: "62"
-    issue: "1"
-    pages: "322-334"
-    type: "journal"
-    
-  - title: "Vitamin D affects the risk of disease activity in multiple sclerosis"
-    authors: "Giordano A, Clarelli F, Pignolet B, Mascia E, Sorosina M, Misra K, Ferrè L, Bucciarelli F, Manouchehrinia A, Moiola L, et al."
-    year: 2025
-    venue: "Journal of Neurology, Neurosurgery & Psychiatry"
-    volume: "96"
-    issue: "2"
-    pages: "170-176"
-    type: "journal"
-    
-  - title: "Sex hormone-related factors and the risk of PIRA in women with multiple sclerosis"
-    authors: "Giordano A, Giliberti A, Clarelli F, Misra K, Mascia E, Sorosina M, Visentin G, Margoni M, Moiola L, Rocca MA, et al."
-    year: 2025
-    venue: "Journal of Neurology, Neurosurgery & Psychiatry"
-    volume: "96"
-    issue: "7"
-    pages: "686-689"
-    type: "journal"
-    
-  - title: "Somatic mutations profiling of immune cells in Multiple Sclerosis lesions"
-    authors: "Giordano A, Misra K, Surano M, Nerkar A, Clarelli F, Sorosina M, Mascia E, Absinta M, Filippi M, Esposito F"
-    year: 2025
-    venue: "Multiple Sclerosis Journal"
-    volume: "31"
-    issue: "3"
-    pages: "43-43"
-    type: "conference"
-    
-  - title: "Multi-omics approach to identify regulator genes involved in multiple sclerosis activity"
-    authors: "Mascia E, Pignolet B, Chiodi A, Giordano A, Misra K, Sorosina M, Clarelli F, Nale V, Bucciarelli F, Rocca MA, et al."
-    year: 2025
-    venue: "Multiple Sclerosis Journal"
-    volume: "31"
-    issue: "3"
-    pages: "555-556"
-    type: "conference"
-    
-  - title: "Environmental risk factors in subjects with radiologically isolated syndrome: a case-control study"
-    authors: "Zanetta C, Giordano A, Laserra F, Esposito F, Sorosina M, Mascia E, Misra K, Viti V, Rocca MA, Filippi M"
-    year: 2025
-    venue: "Multiple Sclerosis Journal"
-    volume: "31"
-    issue: "3"
-    pages: "569-569"
-    type: "conference"
-    
-  - title: "Differentially expressed miRNAs in Multiple Sclerosis patients stratified for NEDA status"
-    authors: "Missaglia M, Sorosina M, Mascia E, Misra K, Giordano A, Clarelli F, Rocca MA, Esposito F, Filippi M"
-    year: 2025
-    venue: "Multiple Sclerosis Journal"
-    volume: "31"
-    issue: "3"
-    pages: "953-954"
-    type: "conference"
-    
-  - title: "Age-dependent accumulation of somatic mitochondrial DNA mutations is different between multiple sclerosis progression phenotypes"
-    authors: "Sorosina M, Misra K, Clarelli F, De Simone A, Giordano A, Mascia E, Rocca MA, Filippi M, Esposito F"
-    year: 2025
-    venue: "Multiple Sclerosis Journal"
-    volume: "31"
-    issue: "3"
-    pages: "13-13"
-    type: "conference"
-    
-  - title: "Correction: Pharmacogenomics of clinical response to Natalizumab in multiple sclerosis: a genome-wide multi-centric association study"
-    authors: "Clarelli F, Corona A, Pääkkonen K, Sorosina M, Zollo A, Piehl F, Olsson T, Stridh P, Jagodic M, Hemmer B, et al."
-    year: 2025
-    venue: "Journal of Neurology"
-    volume: "272"
-    issue: "6"
-    pages: "423"
-    type: "journal"
-    
-  - title: "DNA methylation in the anti-mullerian hormone gene and the risk of disease activity in multiple sclerosis"
-    authors: "Giordano A, Pignolet B, Mascia E, Clarelli F, Sorosina M, Misra K, Bucciarelli F, Ferrè L, Moiola L, Liblau R, et al."
-    year: 2024
-    venue: "Annals of Neurology"
-    volume: "96"
-    issue: "2"
-    pages: "289-301"
-    type: "journal"
-   
-  - title: "Pharmacogenomics of clinical response to Natalizumab in multiple sclerosis: a genome-wide multi-centric association study"
-    authors: "Clarelli F, Corona A, Pääkkonen K, Sorosina M, Zollo A, Piehl F, Olsson T, Stridh P, Jagodic M, Hemmer B, et al."
-    year: 2024
-    venue: "Journal of Neurology"
-    volume: "271"
-    issue: "11"
-    pages: "7250-7263"
-    type: "journal"
-     
-  - title: "Identification of mitochondrial DNA variants enriched in primary progressive multiple sclerosis patients"
-    authors: "Misra K, Sorosina M, Giordano A, Mascia E, Scire S, Ferre L, Clarelli F, Zanetta C, Filippi M, Esposito F"
-    year: 2024
-    venue: "European Journal of Human Genetics"
-    volume: "32"
-    pages: "1505-1505"
-    type: "conference"
-    
-  - title: "Intrinsic-Dimension Analysis for Guiding Dimensionality Reduction in Multi-Omics Data"
-    authors: "Guarino V, Gliozzo J, Clarelli F, Pignolet B, Misra K, Mascia E, Antonino G, Santoro S, Ferrè L, Cannizzaro M, et al."
-    year: 2023
-    venue: "BIOINFORMATICS"
-    pages: "243-251"
-    type: "conference"
-    
-  - title: "Ion channel genes in painful neuropathies"
-    authors: "Ślęczkowska M, Misra K, Santoro S, Gerrits MM, Hoeijmakers JGJ"
-    year: 2023
-    venue: "Biomedicines"
-    volume: "11"
-    issue: "10"
-    pages: "2680"
-    type: "journal"
-
-# Display settings for Jekyll theme
-display_settings:
-  show_year: true
-  show_venue: true
-  show_volume: true
-  show_pages: true
-  sort_by: "year"  # Options: year, title
-  reverse_sort: true  # Most recent first
-  group_by_year: true
-  show_type_badge: true
+  2T-kN-gAAAAJ:0EnyYjriUFMC:
+    citations: 0
+    title: Genetic-driven impairment of mitochondrial function in primary progressive multiple sclerosis
+    year: '2024'
+  2T-kN-gAAAAJ:2osOgNQ5qMEC:
+    citations: 0
+    title: Genetic study of Italian families affected by small fibre neuropathy identified variants in predisposing pain phenotype
+    year: '2022'
+  2T-kN-gAAAAJ:3fE2CSJIrl8C:
+    citations: 0
+    title: Interactome-based multi-omics approach to study disease activity in the early phases of Multiple Sclerosis
+    year: '2023'
+  2T-kN-gAAAAJ:4DMP91E08xMC:
+    citations: 0
+    title: Age-dependent accumulation of somatic mitochondrial DNA mutations is different between multiple sclerosis progression phenotypes
+    year: '2025'
+  2T-kN-gAAAAJ:4TOpqqG69KYC:
+    citations: 0
+    title: Somatic mutations profiling of immune cells in Multiple Sclerosis lesions
+    year: '2025'
+  2T-kN-gAAAAJ:5nxA0vEk-isC:
+    citations: 0
+    title: Identification of hormonal factors involved in multiple sclerosis disease progression
+    year: '2024'
+  2T-kN-gAAAAJ:8k81kl-MbHgC:
+    citations: 0
+    title: Prevalence of RFC1 gene expansion in multiple sclerosis
+    year: '2024'
+  2T-kN-gAAAAJ:9yKSN-GCB0IC:
+    citations: 0
+    title: Identification of genetic variants contributing to pain-related symptoms in familial and sporadic patients affected by peripheral neuropathy
+    year: '2022'
+  2T-kN-gAAAAJ:KlAtU1dfN6UC:
+    citations: 0
+    title: Identification of mitochondrial DNA variants enriched in primary progressive multiple sclerosis patients
+    year: '2024'
+  2T-kN-gAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: FUNCTIONAL ANALYSIS OF KCNK18 GENETIC VARIANTS ASSOCIATED WITH NEUROPATHIC PAIN
+    year: Unknown Year
+  2T-kN-gAAAAJ:M3ejUd6NZC8C:
+    citations: 0
+    title: Multi-omics approach to identify regulator genes involved in multiple sclerosis activity
+    year: '2025'
+  2T-kN-gAAAAJ:MXK_kJrjxJIC:
+    citations: 0
+    title: Identification of deregulated miRNAs in active and non-active multiple sclerosis patients
+    year: '2023'
+  2T-kN-gAAAAJ:Se3iqnhoufwC:
+    citations: 19
+    title: Vitamin D affects the risk of disease activity in multiple sclerosis
+    year: '2025'
+  2T-kN-gAAAAJ:Tyk-4Ss8FVUC:
+    citations: 4
+    title: Genetic contribution to medium-term disease activity in multiple sclerosis
+    year: '2025'
+  2T-kN-gAAAAJ:ULOm3_A8WrAC:
+    citations: 0
+    title: The emerging role of ion channel genes in painful neuropathies
+    year: Unknown Year
+  2T-kN-gAAAAJ:UeHWp8X0CEIC:
+    citations: 3
+    title: Intrinsic-Dimension Analysis for Guiding Dimensionality Reduction in Multi-Omics Data.
+    year: '2023'
+  2T-kN-gAAAAJ:UebtZRa9Y70C:
+    citations: 10
+    title: 'Pharmacogenomics of clinical response to Natalizumab in multiple sclerosis: a genome-wide multi-centric association study'
+    year: '2024'
+  2T-kN-gAAAAJ:W7OEmFMy1HYC:
+    citations: 0
+    title: Genetically controlled DNA methylation in the Anti-Mullerian Hormone is associated with disease activity in Multiple Sclerosis
+    year: '2023'
+  2T-kN-gAAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: Genetic determinants of mitochondrial impairment in primary progressive multiple sclerosis
+    year: '2023'
+  2T-kN-gAAAAJ:Wp0gIr-vW9MC:
+    citations: 0
+    title: "Environmental risk factors and conversion to multiple sclerosis in subjects with radiologically isolated syndrome: a case\u2013control study"
+    year: '2026'
+  2T-kN-gAAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: 'Meningeal inflammation and disability accumulation: a candidate gene study'
+    year: '2023'
+  2T-kN-gAAAAJ:YOwf2qJgpHMC:
+    citations: 0
+    title: 'Pharmacogenomics of clinical response to Natalizumab in multiple sclerosis: a genome-wide multi-centric association study (vol 271, pg 7250, 2024)'
+    year: '2025'
+  2T-kN-gAAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: Vitamin D is causally associated with the No Evidence of Disease Activity-3 status in Multiple Sclerosis
+    year: '2023'
+  2T-kN-gAAAAJ:Zph67rFs4hoC:
+    citations: 1
+    title: "Correction to: Pharmacogenomics of clinical response to Natalizumab in multiple sclerosis: a genome-wide multi-centric association study (Journal of Neurology,(2024), 271, 11 \u2026"
+    year: '2025'
+  2T-kN-gAAAAJ:_FxGoFyzp5QC:
+    citations: 8
+    title: "DNA methylation in the anti\u2010mullerian hormone gene and the risk of disease activity in multiple sclerosis"
+    year: '2024'
+  2T-kN-gAAAAJ:_kc_bZDykSQC:
+    citations: 0
+    title: "Long Non-Coding RNAs in Multiple Sclerosis\u2014Differential Expression and Functional Implications"
+    year: '2025'
+  2T-kN-gAAAAJ:aqlVkmm33-oC:
+    citations: 0
+    title: Differentially expressed miRNAs in Multiple Sclerosis patients stratified for NEDA status
+    year: '2025'
+  2T-kN-gAAAAJ:d1gkVwhDpl0C:
+    citations: 0
+    title: Genetic study of Italian families affected by small fibre neuropathy identified variants in predisposing pain phenotype
+    year: '2021'
+  2T-kN-gAAAAJ:eQOLeE2rZwMC:
+    citations: 0
+    title: Use of oral contraceptive, menopause and pregnancy before Multiple Sclerosis diagnosis are associated with more favorable disease course
+    year: '2023'
+  2T-kN-gAAAAJ:hqOjcs7Dif8C:
+    citations: 0
+    title: Genetic contribution to medium-term disease activity in multiple sclerosis
+    year: '2023'
+  2T-kN-gAAAAJ:kNdYIx-mwKoC:
+    citations: 7
+    title: Sex hormone-related factors and the risk of PIRA in women with multiple sclerosis
+    year: '2025'
+  2T-kN-gAAAAJ:mVmsd5A6BfQC:
+    citations: 0
+    title: A HIF1A variant impacts long-term disability and smoldering inflammation in multiple sclerosis
+    year: '2026'
+  2T-kN-gAAAAJ:qjMakFHDy7sC:
+    citations: 0
+    title: Analysis of miRNA profiles in active and non-active multiple sclerosis patients
+    year: '2022'
+  2T-kN-gAAAAJ:qxL8FJ1GzNcC:
+    citations: 0
+    title: 'Environmental risk factors in subjects with radiologically isolated syndrome: a case-control study'
+    year: '2025'
+  2T-kN-gAAAAJ:roLk4NBRz8UC:
+    citations: 3
+    title: Broadening the genetic spectrum of painful small-fiber neuropathy through whole-exome study in early-onset cases
+    year: '2024'
+  2T-kN-gAAAAJ:u-x6o8ySG0sC:
+    citations: 0
+    title: Interactome-based multi-omics study of molecular networks implicated in disease activity in Multiple Sclerosis
+    year: '2022'
+  2T-kN-gAAAAJ:u5HHmVD_uO8C:
+    citations: 0
+    title: An automated sample allocation system for multiplexed Next-Generation Sequencing
+    year: '2017'
+  2T-kN-gAAAAJ:ufrVoPGSRksC:
+    citations: 2
+    title: Genetic variation in HIF1A is associated with smoldering inflammation and disease progression in Multiple Sclerosis
+    year: '2024'
+  2T-kN-gAAAAJ:zYLM7Y9cAGgC:
+    citations: 18
+    title: Ion channel genes in painful neuropathies
+    year: '2023'
