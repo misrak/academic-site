@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-02'
+  last_updated: '2026-03-13'
 papers:
   2T-kN-gAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -66,7 +66,7 @@ papers:
     title: Intrinsic-Dimension Analysis for Guiding Dimensionality Reduction in Multi-Omics Data.
     year: '2023'
   2T-kN-gAAAAJ:UebtZRa9Y70C:
-    citations: 10
+    citations: 11
     title: 'Pharmacogenomics of clinical response to Natalizumab in multiple sclerosis: a genome-wide multi-centric association study'
     year: '2024'
   2T-kN-gAAAAJ:W7OEmFMy1HYC:
