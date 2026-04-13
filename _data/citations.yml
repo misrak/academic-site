@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-13'
+  last_updated: '2026-04-13'
 papers:
   2T-kN-gAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -29,6 +29,10 @@ papers:
     citations: 0
     title: Prevalence of RFC1 gene expansion in multiple sclerosis
     year: '2024'
+  2T-kN-gAAAAJ:9ZlFYXVOiuMC:
+    citations: 0
+    title: Integration of multi-omics to identify regulators gene involved in multiple sclerosis disease activity
+    year: '2025'
   2T-kN-gAAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: Identification of genetic variants contributing to pain-related symptoms in familial and sporadic patients affected by peripheral neuropathy
@@ -54,7 +58,7 @@ papers:
     title: Vitamin D affects the risk of disease activity in multiple sclerosis
     year: '2025'
   2T-kN-gAAAAJ:Tyk-4Ss8FVUC:
-    citations: 4
+    citations: 5
     title: Genetic contribution to medium-term disease activity in multiple sclerosis
     year: '2025'
   2T-kN-gAAAAJ:ULOm3_A8WrAC:
@@ -66,7 +70,7 @@ papers:
     title: Intrinsic-Dimension Analysis for Guiding Dimensionality Reduction in Multi-Omics Data.
     year: '2023'
   2T-kN-gAAAAJ:UebtZRa9Y70C:
-    citations: 11
+    citations: 12
     title: 'Pharmacogenomics of clinical response to Natalizumab in multiple sclerosis: a genome-wide multi-centric association study'
     year: '2024'
   2T-kN-gAAAAJ:W7OEmFMy1HYC:
