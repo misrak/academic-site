@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-12'
 papers:
   2T-kN-gAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -53,6 +53,10 @@ papers:
     citations: 0
     title: Identification of deregulated miRNAs in active and non-active multiple sclerosis patients
     year: '2023'
+  2T-kN-gAAAAJ:QIV2ME_5wuYC:
+    citations: 0
+    title: Distinct age-related pattern of mitochondrial somatic mutations across multiple sclerosis phenotypes
+    year: '2026'
   2T-kN-gAAAAJ:Se3iqnhoufwC:
     citations: 22
     title: Vitamin D affects the risk of disease activity in multiple sclerosis
