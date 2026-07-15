@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-07-15'
 papers:
   2T-kN-gAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -58,11 +58,11 @@ papers:
     title: Distinct age-related pattern of mitochondrial somatic mutations across multiple sclerosis phenotypes
     year: '2026'
   2T-kN-gAAAAJ:Se3iqnhoufwC:
-    citations: 22
+    citations: 24
     title: Vitamin D affects the risk of disease activity in multiple sclerosis
     year: '2025'
   2T-kN-gAAAAJ:Tyk-4Ss8FVUC:
-    citations: 6
+    citations: 7
     title: Genetic contribution to medium-term disease activity in multiple sclerosis
     year: '2025'
   2T-kN-gAAAAJ:ULOm3_A8WrAC:
@@ -103,10 +103,10 @@ papers:
     year: '2023'
   2T-kN-gAAAAJ:Zph67rFs4hoC:
     citations: 1
-    title: "Correction to: Pharmacogenomics of clinical response to Natalizumab in multiple sclerosis: a genome-wide multi-centric association study (Journal of Neurology,(2024), 271, 11 \u2026"
+    title: 'Correction: Pharmacogenomics of clinical response to Natalizumab in multiple sclerosis: a genome-wide multi-centric association study.'
     year: '2025'
   2T-kN-gAAAAJ:_FxGoFyzp5QC:
-    citations: 8
+    citations: 9
     title: "DNA methylation in the anti\u2010mullerian hormone gene and the risk of disease activity in multiple sclerosis"
     year: '2024'
   2T-kN-gAAAAJ:_kc_bZDykSQC:
@@ -162,6 +162,6 @@ papers:
     title: Genetic variation in HIF1A is associated with smoldering inflammation and disease progression in Multiple Sclerosis
     year: '2024'
   2T-kN-gAAAAJ:zYLM7Y9cAGgC:
-    citations: 19
+    citations: 22
     title: Ion channel genes in painful neuropathies
     year: '2023'
