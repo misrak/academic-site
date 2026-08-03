@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-03'
 papers:
   2T-kN-gAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -70,7 +70,7 @@ papers:
     title: The emerging role of ion channel genes in painful neuropathies
     year: Unknown Year
   2T-kN-gAAAAJ:UeHWp8X0CEIC:
-    citations: 3
+    citations: 2
     title: Intrinsic-Dimension Analysis for Guiding Dimensionality Reduction in Multi-Omics Data.
     year: '2023'
   2T-kN-gAAAAJ:UebtZRa9Y70C:
@@ -134,7 +134,7 @@ papers:
     title: Sex hormone-related factors and the risk of PIRA in women with multiple sclerosis
     year: '2025'
   2T-kN-gAAAAJ:mVmsd5A6BfQC:
-    citations: 1
+    citations: 3
     title: A HIF1A variant impacts long-term disability and smoldering inflammation in multiple sclerosis
     year: '2026'
   2T-kN-gAAAAJ:qjMakFHDy7sC:
@@ -146,7 +146,7 @@ papers:
     title: 'Environmental risk factors in subjects with radiologically isolated syndrome: a case-control study'
     year: '2025'
   2T-kN-gAAAAJ:roLk4NBRz8UC:
-    citations: 3
+    citations: 4
     title: Broadening the genetic spectrum of painful small-fiber neuropathy through whole-exome study in early-onset cases
     year: '2024'
   2T-kN-gAAAAJ:u-x6o8ySG0sC:
