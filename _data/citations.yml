@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-17'
 papers:
   2T-kN-gAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -74,7 +74,7 @@ papers:
     title: Intrinsic-Dimension Analysis for Guiding Dimensionality Reduction in Multi-Omics Data.
     year: '2023'
   2T-kN-gAAAAJ:UebtZRa9Y70C:
-    citations: 14
+    citations: 15
     title: 'Pharmacogenomics of clinical response to Natalizumab in multiple sclerosis: a genome-wide multi-centric association study'
     year: '2024'
   2T-kN-gAAAAJ:W7OEmFMy1HYC:
@@ -134,7 +134,7 @@ papers:
     title: Sex hormone-related factors and the risk of PIRA in women with multiple sclerosis
     year: '2025'
   2T-kN-gAAAAJ:mVmsd5A6BfQC:
-    citations: 3
+    citations: 4
     title: A HIF1A variant impacts long-term disability and smoldering inflammation in multiple sclerosis
     year: '2026'
   2T-kN-gAAAAJ:qjMakFHDy7sC:
